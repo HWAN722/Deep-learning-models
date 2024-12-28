@@ -32,3 +32,4 @@ Run each cell in sequence to see and understand the implementation process of th
 ## Model List
 Here are some of the models included in this repository:
 1. [Transformer](https://arxiv.org/abs/1706.03762)
+2. Llama-3.2
